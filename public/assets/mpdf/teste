@@ -1,0 +1,15 @@
+<p style='font-size:10px'>
+            <b>Emitido em:</b>".$dataEmissao."<br>
+            <b>Nome:</b>".$nome."<br>
+            <b>Telefone:</b>".$telefone."<br>
+            <b>CPF/CNPJ:</b>".$cnpj."<br>
+            <b>Endereço:</b>".$endereco."
+            <b>Nº</b> - ".$numero."<br>
+            <b>Bairro:</b>".$bairro."<br>
+            <b>Complemento:</b> ".$complemento." <br> 
+            <b>Cidade/Estado:</b> ".$cidade."/".$estado."<br>
+            <b>Data da Entrega:</b> ".$dataEntrega."<br>
+            <b>Forma de Entrega:</b> ".$formaEntrega."
+        </p>
+
+        
